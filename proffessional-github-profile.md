@@ -1,4 +1,4 @@
-# Project: Create a professional-looking GitHub profile
+# Create a professional-looking GitHub profile
 
 ## Objective
 
@@ -8,13 +8,7 @@
 
 In this article, I'll walk you through how to fill out your GitHub profile in such a way that it's dynamic, professional, and able to immediately catch a hiring manager's attention.
 
-### Why is a strong GitHub profile so important?
-
-Your GitHub profile is like your resume in the software world; it gives hiring managers insight into who you are, what you've done, and what you're able to do. You can tell a company that you have skills in React, but if they look at your GitHub and see no React projects, they're not going to believe you. Likewise, you can tell a company that you have good documentation skills,  but if they take a look at your README files and see that they're messy, disorganized, or incomplete, they're not going to give you a chance to prove them wrong.
-
-In other words, it's **vitally important** that you put just as much effort into creating a strong GitHub profile as you do into creating strong projects or strong resumes. A solid GitHub profile can be the difference between receiving interview requests and being rejected for positions outright.
-
-### Project setup
+### Starting point
 
 1. Log in to your GitHub account and take 2-3 minutes to familiarize yourself with your profile and your Accounts Setting page.
 
