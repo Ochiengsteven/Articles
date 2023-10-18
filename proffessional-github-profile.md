@@ -69,9 +69,7 @@ Your Activity chart is **the quickest way** a recruiter has **to view** **your c
 
 [Keep your Activity green with small daily commits](keep-your-activity-green-with-small-daily-commits.md)
 
-**Apply what you've learned**
-
-1. If you don't already have a dedicated block of time each day for committing to GitHub, create a calendar block and set up a calendar alert to remind you to commit something each day to GitHub.
+> If you don't already have a dedicated block of time each day for committing to GitHub, create a calendar block and set up a calendar alert to remind you to commit something each day to GitHub.
 
 ### EXTRA TIPS
 
