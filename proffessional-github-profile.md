@@ -84,7 +84,7 @@ You've now completed the first step in creating a strong GitHub profile. You can
 
 ## Additional materials
 
-*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you. Any exploration here should be done outside program time.*
+*These are all optional, but if you're interested in exploring this topic further, here are some resources to help you.*
 
 - [What Makes a Good GitHub Profile?](https://codeburst.io/what-makes-a-good-github-profile-ced754284e3d)
 - [Here's what 4 companies really look for on your GitHub profile](https://www.builtinchicago.org/2018/05/08/what-companies-look-for-on-github)
