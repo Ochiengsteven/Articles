@@ -13,8 +13,8 @@ As a developer this a very important tool that you'll be using to make open sour
 ## Steps:
 
 1. **Make sure you are logged in your github account**
-2. Click the github link you were given for submition e.g https://github.com/kamausuzan197/Power-Hacks-Nigeria..git *This is the submision link that was used for the powerhacks nigeria*
-3. The link will redirect you to the github repo for submition, go through the page and you'll find this icon written `fork`
+2. **Click the github link you were given for submition** e.g https://github.com/kamausuzan197/Power-Hacks-Nigeria..git *This is the submision link that was used for the powerhacks nigeria*
+3. **The link will redirect you to the github repo for submition**, go through the page and you'll find this icon written `fork`
 
 ![Fork 1](https://github.com/Ochiengsteven/Articles/assets/91716656/0c6a0c7a-f1be-459c-adee-48bac2c95fed)
 
@@ -22,6 +22,6 @@ click on it and you'll be redirected to create a new repo to store/upload your c
 
 ![fork 2](https://github.com/Ochiengsteven/Articles/assets/91716656/1ae7620b-3778-4f76-ba59-9fe6c7e9832d)
 
-4. After creating the repo, you can now clone it to your computer and write and push your code from it from your local comptuters IDE like vsCode
+4. **After creating the repo, you can now clone it to your computer and write and push your code from it from your local comptuters IDE like vsCode**
 
 ![clone](https://github.com/Ochiengsteven/Articles/assets/91716656/cdf14387-21b9-4e07-9f49-cedede14957b)
