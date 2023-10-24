@@ -27,6 +27,7 @@ click on it and you'll be redirected to create a new repo to store/upload your c
 ![clone](https://github.com/Ochiengsteven/Articles/assets/91716656/cdf14387-21b9-4e07-9f49-cedede14957b)
 
 5. **(Optional) Create a Branch**
+
 Before pushing your code changes, it's a good practice to create a new branch for your project. This branch will be the basis for your pull request.
 
 git checkout -b YOUR_PROJECT_NAME
