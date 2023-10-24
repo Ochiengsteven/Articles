@@ -19,7 +19,9 @@ As a developer this a very important tool that you'll be using to make open sour
 ![Fork 1](https://github.com/Ochiengsteven/Articles/assets/91716656/0c6a0c7a-f1be-459c-adee-48bac2c95fed)
 
 click on it and you'll be redirected to create a new repo to store/upload your code that you will submit/upload to the original repository.
-[!screenshot](creating-repo.png)
+
+![fork 2](https://github.com/Ochiengsteven/Articles/assets/91716656/1ae7620b-3778-4f76-ba59-9fe6c7e9832d)
 
 4. After creating the repo, you can now clone it to your computer and write and push your code from it from your local comptuters IDE like vsCode
-[!screenshot-clonning page](github.com/ochieng/demo)
+
+![clone](https://github.com/Ochiengsteven/Articles/assets/91716656/cdf14387-21b9-4e07-9f49-cedede14957b)
