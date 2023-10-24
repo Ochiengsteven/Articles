@@ -6,7 +6,7 @@ Objective:
 
 ## Description
 
-I believe your coding journey you've come across the term fork . If you've not yet, don't worry, this article will help you wit a step by step guide to navigate and fork your first repo!
+I believe your coding journey you've come across the term **`fork`** . If you've not yet, don't worry, this article will help you wit a step by step guide to navigate and fork your first repo!
 
 As a developer this a very important tool that you'll be using to make open source contributions and also submittion of your code to a specified repo(We mainly use this for hackathon code submittions in Power Learn Project).
 
