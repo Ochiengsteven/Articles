@@ -29,11 +29,13 @@ click on it and you'll be redirected to create a new repo to store/upload your c
 5. **(Optional) Create a Branch**
 
 Before pushing your code changes, it's a good practice to create a new branch for your project. This branch will be the basis for your pull request.
-
+``` sh
 git checkout -b YOUR_PROJECT_NAME
+```
 Once you have made your changes, commit and push them to the forked repository.
 
 6. **Create a Pull Request**
+
 Now, you're ready to submit your code changes. Go to the original repository you forked from, and you'll see an option to create a pull request. Click on it, and follow the steps to submit your code changes.
 
 ### Additional Resources
