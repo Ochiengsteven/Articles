@@ -38,4 +38,4 @@ Now, you're ready to submit your code changes. Go to the original repository you
 Additional Resources
 Feel free to explore more about forking and pull requests on GitHub. You can refer to GitHub's documentation and various online tutorials for more in-depth knowledge.
 
-This guide should help you get started with forking and submitting code on GitHub. Good luck with your coding journey!
+>This guide should help you get started with forking and submitting code on GitHub. Good luck with your coding journey!
