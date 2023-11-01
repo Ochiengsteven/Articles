@@ -26,16 +26,19 @@ click on it and you'll be redirected to create a new repo to store/upload your c
 
 ![clone](https://github.com/Ochiengsteven/Articles/assets/91716656/cdf14387-21b9-4e07-9f49-cedede14957b)
 
-5. (Optional) Create a Branch
-Before pushing your code changes, it's a good practice to create a new branch for your project. This branch will be the basis for your pull request.
+5. **(Optional) Create a Branch**
 
+Before pushing your code changes, it's a good practice to create a new branch for your project. This branch will be the basis for your pull request.
+``` sh
 git checkout -b YOUR_PROJECT_NAME
+```
 Once you have made your changes, commit and push them to the forked repository.
 
-6. Create a Pull Request
+6. **Create a Pull Request**
+
 Now, you're ready to submit your code changes. Go to the original repository you forked from, and you'll see an option to create a pull request. Click on it, and follow the steps to submit your code changes.
 
-Additional Resources
+### Additional Resources
 Feel free to explore more about forking and pull requests on GitHub. You can refer to GitHub's documentation and various online tutorials for more in-depth knowledge.
 
 >This guide should help you get started with forking and submitting code on GitHub. Good luck with your coding journey!
