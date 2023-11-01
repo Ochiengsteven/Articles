@@ -10,7 +10,7 @@ Asking for help is a *vital aspect* of successfully progressing as a software de
 > "Alone, we can do so little; together, we can do so much." - Helen Keller
 
 #### Questions to Ask Yourself:
-- What are your concerns regarding the current module in PLP?
+- What are your concerns regarding your current module in PLP?
 - What is the desired outcome you are aiming for?
 - What steps have you taken to expand your knowledge about the module's topic? Which sources have you consulted independently?
 - Has seeking information resolved your concerns? If not, who do you plan to ask for help?
